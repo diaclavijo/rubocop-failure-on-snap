@@ -1,0 +1,1 @@
+# rubocop-failure-on-snap
